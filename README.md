@@ -1,6 +1,5 @@
 # Projeto  Design Web
-## 4° Bimestre
-### Site (Crime Newspaper)
+## 4° Bimestre - Site (Crime Newspaper)
 ### Alunas: Juliana Beatriz e Jamily Rebeca
 
 #### - HTML & CSS
